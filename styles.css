@@ -1,12 +1,24 @@
+@font-face {
+    font-family: 'Berylium';
+    src: url('Berylium.woff2') format('woff2'),
+        url('Berylium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Berylium', sans-serif;
     margin: 0;
     padding: 20px;
+    background-image: url('Św._Jerzy_i_smok.jpg'); /* Dodaj ścieżkę do obrazka jako tło body */
+    background-size: cover; /* Ustawienie, aby tło zawsze pokrywało całe body */
+    background-position: center top;
+    background-repeat: no-repeat;
 }
 
 h1 {
     text-align: center;
-    font-size: 24px;
+    font-size: 60px;
 }
 
 #ranking {
@@ -22,7 +34,11 @@ h1 {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
+    background-image: url('sciezka/do/tla-zastepu.jpg'); /* Dodaj ścieżkę do obrazka jako tło elementów z rankingu */
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
 
 .zastep .numeracja {
     flex-shrink: 0;
@@ -44,13 +60,18 @@ h1 {
     padding: 5px 10px;
     border-radius: 3px;
 }
-
+@media (max-width: 1100px)
+{
+    h1 {
+        font-size: 50px;
+    }
+}
 @media (max-width: 600px) {
     #ranking {
         padding: 0 10px;
     }
 
     h1 {
-        font-size: 20px;
+        font-size: 40px;
     }
 }
