@@ -10,9 +10,9 @@ body {
     font-family: 'Berylium', sans-serif;
     margin: 0;
     padding: 20px;
-    background-image: url('dark-ages-mnh65rufc5bjt0qg.jpg'); /* Dodaj ścieżkę do obrazka jako tło body */
+    background-image: url('Św._Jerzy_i_smok.jpg'); /* Dodaj ścieżkę do obrazka jako tło body */
     background-size: cover; /* Ustawienie, aby tło zawsze pokrywało całe body */
-    background-position: center;
+    background-position: center top;
     background-repeat: no-repeat;
 }
 
