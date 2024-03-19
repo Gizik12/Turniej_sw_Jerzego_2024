@@ -60,6 +60,8 @@ h1 {
 
 .zastep .punkty {
     background-color: #f0f0f0;
+    opacity: 0.9;
+    font-weight: bold;
     padding: 5px 10px;
     border-radius: 3px;
 }
