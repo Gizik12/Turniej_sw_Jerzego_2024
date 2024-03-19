@@ -32,10 +32,9 @@ h1 {
     align-items: center;
     margin-bottom: 10px;
     padding: 10px;
-    border: 1px solid #ccc;
     border-radius: 5px;
     background-color: #f0f0f0;
-    background-image: url('sciezka/do/tla-zastepu.jpg'); /* Dodaj ścieżkę do obrazka jako tło elementów z rankingu */
+    background-image: url('zastepy_backgroud.jpg'); /* Dodaj ścieżkę do obrazka jako tło elementów z rankingu */
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -46,6 +45,7 @@ h1 {
     width: 30px;
     text-align: center;
     margin-right: 10px;
+    font-weight: bold;
 }
 
 .zastep .nazwa {
@@ -54,10 +54,11 @@ h1 {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
+    font-weight: bold;
 }
 
 .zastep .punkty {
-    background-color: #c0c0c0;
+    background-color: #f0f0f0;
     padding: 5px 10px;
     border-radius: 3px;
 }
