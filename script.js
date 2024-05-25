@@ -36,7 +36,7 @@ const zastepy = [
     { nazwa: 'Sasanki', punkty: 0 },
     { nazwa: 'Salix', punkty: 0 },
     { nazwa: 'Sępy', punkty: 0 },
-    { nazwa: 'Sorbus', punkty: 6 },
+    { nazwa: 'Sorbus', punkty: 10 },
     { nazwa: 'Szafir', punkty: 4 },
     { nazwa: 'Szwoleżerowie', punkty: 0 },
     { nazwa: 'Urtica', punkty: 0 },
