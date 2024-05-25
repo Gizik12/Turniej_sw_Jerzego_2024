@@ -43,7 +43,7 @@ const zastepy = [
     { nazwa: 'Wilki', punkty: 18 },
     { nazwa: 'Wzgórze', punkty: 16 },
     { nazwa: 'Żubry', punkty: 8 },
-    { nazwa: 'Zielone mgły', punkty: 22 },
+    { nazwa: 'Zielone mgły', punkty: 27 },
     {nazwa: 'Pingwiny', punkty: 11 }
 ];
 
