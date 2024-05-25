@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const rankingElement = document.getElementById('ranking');
 const zastepy = [
-    { nazwa: 'Ametyst', punkty: 23.5 },
+    { nazwa: 'Ametyst', punkty: 32.5 },
     { nazwa: 'Callidus Lupi', punkty: 9 },
     { nazwa: 'Chabry', punkty: 19 },
     { nazwa: 'Corvus', punkty: 14.5 },
