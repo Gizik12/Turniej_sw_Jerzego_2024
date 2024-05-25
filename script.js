@@ -27,7 +27,7 @@ const zastepy = [
     { nazwa: 'Orły', punkty: 0 },
     { nazwa: 'Pancernii', punkty: 20.5 },
     { nazwa: 'Petyhorcy', punkty: 23 },
-    { nazwa: 'Prinus', punkty: 18 },
+    { nazwa: 'Prinus', punkty: 27 },
     { nazwa: 'Promienie', punkty: 0 },
     { nazwa: 'Rajtarzy', punkty: 21.5 },
     { nazwa: 'Rapidi Lupi', punkty: 0 },
@@ -43,7 +43,7 @@ const zastepy = [
     { nazwa: 'Wilki', punkty: 0 },
     { nazwa: 'Wzgórze', punkty: 0 },
     { nazwa: 'Żubry', punkty: 0 },
-    { nazwa: 'Zielone mgły', punkty: 7 }
+    { nazwa: 'Zielone mgły', punkty: 15 }
 ];
 
     // Sortowanie zastępów według liczby punktów, a następnie nazwy
