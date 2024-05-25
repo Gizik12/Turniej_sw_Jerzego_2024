@@ -10,7 +10,7 @@ const zastepy = [
     { nazwa: 'Draco', punkty: 46.5 },
     { nazwa: 'Dzwonki', punkty: 28 },
     { nazwa: 'Filar', punkty: 17.5 },
-    { nazwa: 'Fiołki', punkty: 31 },
+    { nazwa: 'Fiołki', punkty: 38 },
     { nazwa: 'Forti Lupi', punkty: 26 },
     { nazwa: 'Gladius', punkty: 39 },
     { nazwa: 'Halit', punkty: 36 },
@@ -40,7 +40,7 @@ const zastepy = [
     { nazwa: 'Szwoleżerowie', punkty: 0 },
     { nazwa: 'Urtica', punkty: 33 },
     { nazwa: 'Wilki', punkty: 22 },
-    { nazwa: 'Wzgórze', punkty: 32 },
+    { nazwa: 'Wzgórze', punkty: 39 },
     { nazwa: 'Żubry', punkty: 23 },
     { nazwa: 'Zielone mgły', punkty: 27 },
     {nazwa: 'Pingwiny', punkty: 15.5 }
