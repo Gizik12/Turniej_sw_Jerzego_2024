@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const rankingElement = document.getElementById('ranking');
 const zastepy = [
     { nazwa: 'Ametyst', punkty: 0 },
-    { nazwa: 'Callidus Lupi', punkty: 0 },
+    { nazwa: 'Callidus Lupi', punkty: 9 },
     { nazwa: 'Chabry', punkty: 0 },
     { nazwa: 'Corvus', punkty: 0 },
     { nazwa: 'Dolina', punkty: 0 },
@@ -13,7 +13,7 @@ const zastepy = [
     { nazwa: 'Fiołki', punkty: 0 },
     { nazwa: 'Forti Lupi', punkty: 5 },
     { nazwa: 'Gladius', punkty: 0 },
-    { nazwa: 'Halit', punkty: 0 },
+    { nazwa: 'Halit', punkty: 8 },
     { nazwa: 'Ilex', punkty: 0 },
     { nazwa: 'Jastrzębie', punkty: 0 },
     { nazwa: 'Jutrzenka', punkty: 0 },
