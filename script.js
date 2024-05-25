@@ -26,7 +26,7 @@ const zastepy = [
     { nazwa: 'Orły', punkty: 0 },
     { nazwa: 'Pancernii', punkty: 36.5 },
     { nazwa: 'Petyhorcy', punkty: 32 },
-    { nazwa: 'Prinus', punkty: 51 },
+    { nazwa: 'Prinus', punkty: 60 },
     { nazwa: 'Promienie', punkty: 28.5 },
     { nazwa: 'Rajtarzy', punkty: 50 },
     { nazwa: 'Rapidi Lupi', punkty: 18 },
