@@ -17,7 +17,7 @@ const zastepy = [
     { nazwa: 'Ilex', punkty: 0 },
     { nazwa: 'Jastrzębie', punkty: 0 },
     { nazwa: 'Jutrzenka', punkty: 0 },
-    { nazwa: 'Kaczki', punkty: 0 },
+    { nazwa: 'Kaczki', punkty: 5 },
     { nazwa: 'Kotlina', punkty: 0 },
     { nazwa: 'Lisowczycy', punkty: 8 },
     { nazwa: 'Lisy 35', punkty: 0 },
