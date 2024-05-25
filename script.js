@@ -4,7 +4,7 @@ const zastepy = [
     { nazwa: 'Ametyst', punkty: 0 },
     { nazwa: 'Callidus Lupi', punkty: 9 },
     { nazwa: 'Chabry', punkty: 0 },
-    { nazwa: 'Corvus', punkty: 0 },
+    { nazwa: 'Corvus', punkty: 8 },
     { nazwa: 'Dolina', punkty: 0 },
     { nazwa: 'Dragoni', punkty: 8.5 },
     { nazwa: 'Draco', punkty: 9.5 },
