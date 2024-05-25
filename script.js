@@ -1,20 +1,20 @@
 document.addEventListener("DOMContentLoaded", function() {
     const rankingElement = document.getElementById('ranking');
 const zastepy = [
-    { nazwa: 'Ametyst', punkty: 47.5 },
-    { nazwa: 'Callidus Lupi', punkty: 50 },
+    { nazwa: 'Ametyst', punkty: 55 },
+    { nazwa: 'Callidus Lupi', punkty: 59.5 },
     { nazwa: 'Chabry', punkty: 44 },
     { nazwa: 'Corvus', punkty: 29 },
     { nazwa: 'Dolina', punkty: 0 },
-    { nazwa: 'Dragoni', punkty: 41.5 },
+    { nazwa: 'Dragoni', punkty: 51.5 },
     { nazwa: 'Draco', punkty: 46.5 },
     { nazwa: 'Dzwonki', punkty: 28 },
     { nazwa: 'Filar', punkty: 17.5 },
     { nazwa: 'Fiołki', punkty: 38 },
     { nazwa: 'Forti Lupi', punkty: 26 },
-    { nazwa: 'Gladius', punkty: 39 },
+    { nazwa: 'Gladius', punkty: 45 },
     { nazwa: 'Halit', punkty: 36 },
-    { nazwa: 'Jastrzębie', punkty: 26 },
+    { nazwa: 'Jastrzębie', punkty: 34 },
     { nazwa: 'Jutrzenka', punkty: 15 },
     { nazwa: 'Kaczki', punkty: 65 },
     { nazwa: 'Kotlina', punkty: 0 },
@@ -26,15 +26,15 @@ const zastepy = [
     { nazwa: 'Orły', punkty: 0 },
     { nazwa: 'Pancernii', punkty: 56.5 },
     { nazwa: 'Petyhorcy', punkty: 49 },
-    { nazwa: 'Prinus', punkty: 70 },
-    { nazwa: 'Promienie', punkty: 34.5 },
+    { nazwa: 'Prinus', punkty: 80 },
+    { nazwa: 'Promienie', punkty: 44.5 },
     { nazwa: 'Rajtarzy', punkty: 50 },
     { nazwa: 'Rapidi Lupi', punkty: 25 },
-    { nazwa: 'Rarogi', punkty: 24 },
-    { nazwa: 'Sambucus', punkty: 57.5 },
+    { nazwa: 'Rarogi', punkty: 31 },
+    { nazwa: 'Sambucus', punkty: 67.5 },
     { nazwa: 'Sasanki', punkty: 32 },
     { nazwa: 'Salix', punkty: 0 },
-    { nazwa: 'Sępy', punkty: 19 },
+    { nazwa: 'Sępy', punkty: 26 },
     { nazwa: 'Sorbus', punkty: 19.5 },
     { nazwa: 'Szafir', punkty: 15 },
     { nazwa: 'Szwoleżerowie', punkty: 0 },
@@ -43,7 +43,7 @@ const zastepy = [
     { nazwa: 'Wzgórze', punkty: 39 },
     { nazwa: 'Żubry', punkty: 23 },
     { nazwa: 'Zielone mgły', punkty: 27 },
-    {nazwa: 'Pingwiny', punkty: 15.5 }
+    {nazwa: 'Pingwiny', punkty: 21.5 }
 ];
 
     // Sortowanie zastępów według liczby punktów, a następnie nazwy
