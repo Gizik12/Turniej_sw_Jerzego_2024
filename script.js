@@ -9,7 +9,7 @@ const zastepy = [
     { nazwa: 'Dragoni', punkty: 32.5 },
     { nazwa: 'Draco', punkty: 38.5 },
     { nazwa: 'Dzwonki', punkty: 24 },
-    { nazwa: 'Filar', punkty: 14.5 },
+    { nazwa: 'Filar', punkty: 17.5 },
     { nazwa: 'Fiołki', punkty: 31 },
     { nazwa: 'Forti Lupi', punkty: 20.5 },
     { nazwa: 'Gladius', punkty: 29 },
