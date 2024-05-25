@@ -32,7 +32,7 @@ const zastepy = [
     { nazwa: 'Rajtarzy', punkty: 21.5 },
     { nazwa: 'Rapidi Lupi', punkty: 0 },
     { nazwa: 'Rarogi', punkty: 0 },
-    { nazwa: 'Sambucus', punkty: 25 },
+    { nazwa: 'Sambucus', punkty: 29 },
     { nazwa: 'Sasanki', punkty: 15 },
     { nazwa: 'Salix', punkty: 0 },
     { nazwa: 'Sępy', punkty: 0 },
